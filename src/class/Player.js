@@ -2,7 +2,7 @@
 
 
 export default class Player {
-    constructor(x = 0, y = 0){
+    constructor(x = 180, y = 180){
         this.x = x
         this.y = y
 
