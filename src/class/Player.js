@@ -6,7 +6,9 @@ export default class Player {
         this.x = x
         this.y = y
 
-        this.size = 20
+        this.size = 40
         this.speed = 5
     }
+
+    
 }
